@@ -1,0 +1,7 @@
+{
+  "id": "paseo-scratch",
+  "name": "Scratchpad",
+  "description": "Start one-off tasks in a fresh, empty directory of a shared \"scratchpad\" project.",
+  "media": [],
+  "requirements": { "paseo": ">=0.11.2" }
+}
